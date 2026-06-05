@@ -29,7 +29,7 @@ if (form) {
     const message = data.get('message');
 
     const text = `Hola Instalaciones Roa, soy ${name}. Mi teléfono es ${phone}. Necesito información sobre: ${service}. Mensaje: ${message}`;
-    const url = `https://wa.me/34916452139?text=${encodeURIComponent(text)}`;
+    const url = `https://wa.me/34670557007?text=${encodeURIComponent(text)}`;
     window.open(url, '_blank', 'noopener,noreferrer');
   });
 }

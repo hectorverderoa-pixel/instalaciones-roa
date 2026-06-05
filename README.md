@@ -5,10 +5,10 @@ Web corporativa estática para Instalaciones Roa S.L.
 ## Qué incluye
 
 - Página principal responsive.
-- Logo de la empresa creado con HTML/CSS, sin imágenes binarias.
+- Logo real de la empresa (`logo-roa.jpg`) integrado en cabecera, portada y footer.
 - Servicios de fontanería.
-- Botones de llamada y WhatsApp.
-- Formulario que prepara un mensaje de WhatsApp.
+- Botones de llamada al fijo, llamada móvil y WhatsApp con los teléfonos actualizados.
+- Formulario estático que prepara un mensaje de WhatsApp al móvil de contacto.
 - Direcciones de las dos tiendas.
 - Horario.
 - Sección preparada para fotos reales de trabajos.
@@ -42,6 +42,5 @@ Para que aparezca en Google de forma seria:
 ## Datos que faltaría completar
 
 - Email de contacto añadido: instalacionesroa@hotmail.com.
-- Fotos reales de trabajos o tienda solo si se añaden fuera de esta preparación sin binarios en el PR.
 - Dominio definitivo.
 - Texto legal / política de privacidad si se añade un formulario que almacene datos.
