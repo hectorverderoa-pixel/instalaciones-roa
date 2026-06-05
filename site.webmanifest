@@ -1,0 +1,9 @@
+{
+  "name": "Instalaciones Roa S.L.",
+  "short_name": "Roa S.L.",
+  "theme_color": "#06468c",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
